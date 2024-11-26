@@ -1,0 +1,50 @@
+{
+    "zones_with_problems": ["west" , "middle", "east"], 
+    "date": "20240407",
+    "url": "http://www.cubadebate.cu/noticias/2024/04/07/une-no-se-pronostican-para-el-horario-pico-afectaciones-al-servicio-por-deficit-de-capacidad-de-generacion/", 
+    "prediction": {
+        "availability": "2822",  
+        "demand_max": "2550",
+        "impact": null,
+        "deficit": null,
+        "backup": "272"
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": "2440", 
+        "demand": "1700", 
+        "deficit": null
+    }, 
+    "plants": [
+        {
+            "ID":"MG",
+            "broken": [],
+            "maintenance": [8],
+            "limitation": null
+    },
+    {
+        "ID":"DO",
+            "broken": [],
+            "maintenance": [6],
+            "limitation": null
+    },
+    {
+        "ID":"LR",
+            "broken": [2],
+            "maintenance": [],
+            "limitation": null
+    }
+],
+    "distributed": {
+        "motors_with_problems": "",
+        "total_impact": "162",
+        "combustible_problem": "40",
+        "snips_with_problems": "",
+        "motors_impact": ""
+    },
+    "impact": {
+        "total_hours": null,
+        "max": null,
+        "max_hour": null
+    }
+}

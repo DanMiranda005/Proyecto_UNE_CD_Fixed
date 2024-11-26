@@ -1,0 +1,62 @@
+{
+    "zones_with_problems": ["west" , "middle", "east"], 
+    "date": "20240403",
+    "url": "http://www.cubadebate.cu/noticias/2024/04/03/une-pronostica-deficit-de-584-mw-durante-pico-nocturno-de-este-miercoles/", 
+    "prediction": {
+        "availability": "2306",  
+        "demand_max": "2820",
+        "impact": "584",
+        "deficit": "514",
+        "backup": null
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": "2140", 
+        "demand": "2160", 
+        "deficit": "20" 
+    }, 
+    "plants": [
+        {
+            "ID":"MG",
+            "broken": [5],
+            "maintenance": [8],
+            "limitation": null
+    },
+    {
+        "ID":"EG",
+            "broken": [1,2],
+            "maintenance": [],
+            "limitation": null
+    },
+    {
+        "ID":"AM",
+            "broken": [6],
+            "maintenance": [],
+            "limitation": null
+    },
+    {
+        "ID":"LR",
+            "broken": [2],
+            "maintenance": [],
+            "limitation": null
+    },
+    {
+        "ID":"DO",
+            "broken": [],
+            "maintenance": [6],
+            "limitation": null
+    }
+],
+    "distributed": {
+        "motors_with_problems": "",
+        "total_impact": "587",
+        "combustible_problem": "65",
+        "snips_with_problems": "patana de Santiago de Cuba",
+        "motors_impact": ""
+    },
+    "impact": {
+        "total_hours": "",
+        "max": "489",
+        "max_hour": "2010"
+    }
+}

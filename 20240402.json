@@ -1,0 +1,62 @@
+{
+    "zones_with_problems": ["west" , "middle", "east"], 
+    "date": "20240402",
+    "url": "http://www.cubadebate.cu/noticias/2024/04/02/une-pronostica-afectacion-de-295-mw-durante-pico-nocturno-de-este-martes/", 
+    "prediction": {
+        "availability": "2475",  
+        "demand_max": "2700",
+        "impact": "295",
+        "deficit": "225",
+        "backup": null
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": "2240", 
+        "demand": "2000", 
+        "deficit": null
+    }, 
+    "plants": [
+        {
+            "ID":"EG",
+            "broken": [2],
+            "maintenance": [],
+            "limitation": null
+    }, 
+    {
+        "ID":"AM",
+            "broken": [6],
+            "maintenance": [],
+            "limitation": null
+    },
+    {
+        "ID":"LR",
+            "broken": [2],
+            "maintenance": [],
+            "limitation": null
+    },
+    {
+        "ID":"MG",
+            "broken": [],
+            "maintenance": [8],
+            "limitation": null
+    },
+    {
+        "ID":"DO",
+            "broken": [],
+            "maintenance": [6],
+            "limitation": null
+    }
+],
+    "distributed": {
+        "motors_with_problems": "",
+        "total_impact": "542",
+        "combustible_problem": "59",
+        "snips_with_problems": "patana de Santiago de Cuba",
+        "motors_impact": ""
+    },
+    "impact": {
+        "total_hours": "",
+        "max": "274",
+        "max_hour": "2010"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "zones_with_problems": ["west" , "middle", "east"], 
+    "date": "20240327",
+    "url": "http://www.cubadebate.cu/noticias/2024/03/27/union-electrica-pronostica-afectacion-de-230-mw-durante-pico-nocturno/", 
+    "prediction": {
+        "availability": "2540",  
+        "demand_max": "2700",
+        "impact": "230",
+        "deficit": "160",
+        "backup": null
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": "2300", 
+        "demand": "2050", 
+        "deficit": null 
+    }, 
+    "plants": [
+        {
+            "ID":"MG",
+            "broken": [5],
+            "maintenance": [8],
+            "limitation": null
+    },
+    {
+        "ID":"EG",
+        "broken": [1],
+        "maintenance": [],
+        "limitation": null
+    },
+    {
+        "ID":"LR",
+        "broken": [2],
+        "maintenance": [],
+        "limitation": null
+    },
+    {
+        "ID":"DO",
+        "broken": [],
+        "maintenance": [6],
+        "limitation": null
+    },
+    {
+        "ID":"AM",
+        "broken": [],
+        "maintenance": [3],
+        "limitation": null
+    }
+],
+    "distributed": {
+        "motors_with_problems": "",
+        "total_impact": "487",
+        "combustible_problem": "55",
+        "snips_with_problems": "patana de Santiago de Cuba ",
+        "motors_impact": ""
+    },
+    "impact": {
+        "total_hours": "",
+        "max": "165",
+        "max_hour": "2020"
+    }
+}

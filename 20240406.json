@@ -1,0 +1,50 @@
+{
+    "zones_with_problems": ["west" , "middle", "east"], 
+    "date": "20240406",
+    "url": "http://www.cubadebate.cu/noticias/2024/04/06/une-no-se-pronostican-afectaciones-durante-pico-nocturno-de-este-sabado/", 
+    "prediction": {
+        "availability": "2790",  
+        "demand_max": "2600",
+        "impact": null,
+        "deficit": null,
+        "backup": "190"
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": "2528", 
+        "demand": "1900", 
+        "deficit": null
+    }, 
+    "plants": [
+        {
+            "ID":"MG",
+            "broken": [],
+            "maintenance": [8],
+            "limitation": null
+    },
+    {
+        "ID":"DO",
+            "broken": [],
+            "maintenance": [6],
+            "limitation": null
+    },
+    {
+        "ID":"LR",
+            "broken": [2],
+            "maintenance": [],
+            "limitation": null
+    } 
+],
+    "distributed": {
+        "motors_with_problems": "",
+        "total_impact": "265",
+        "combustible_problem": "42",
+        "snips_with_problems": "la patana de Santiago de Cuba",
+        "motors_impact": ""
+    },
+    "impact": {
+        "total_hours": null,
+        "max": null,
+        "max_hour": null
+    }
+}

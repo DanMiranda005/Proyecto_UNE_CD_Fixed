@@ -1,0 +1,56 @@
+{
+    "zones_with_problems": ["west" , "middle", "east"], 
+    "date": "20240329",
+    "url": "http://www.cubadebate.cu/noticias/2024/03/29/une-estiman-afectacion-de-357-mw-durante-horario-pico-nocturno-de-este-viernes/", 
+    "prediction": {
+        "availability": "2413",  
+        "demand_max": "2700",
+        "impact": "357",
+        "deficit": "287",
+        "backup": null
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": "2100", 
+        "demand": "1900", 
+        "deficit": null 
+    }, 
+    "plants": [
+        {
+            "ID":"EG",
+            "broken": [1],
+            "maintenance": [],
+            "limitation": null
+    },
+    {
+        "ID":"LR",
+        "broken": [2],
+        "maintenance": [],
+        "limitation": null
+    },
+    {
+        "ID":"MG",
+        "broken": [],
+        "maintenance": [8],
+        "limitation": null
+    },
+    {
+        "ID":"DO",
+        "broken": [],
+        "maintenance": [6],
+        "limitation": null
+    }
+],
+    "distributed": {
+        "motors_with_problems": "",
+        "total_impact": "880",
+        "combustible_problem": "74",
+        "snips_with_problems": "patana del Mariel y la de Santiago de Cuba",
+        "motors_impact": ""
+    },
+    "impact": {
+        "total_hours": null,
+        "max": null,
+        "max_hour": null
+    }
+}

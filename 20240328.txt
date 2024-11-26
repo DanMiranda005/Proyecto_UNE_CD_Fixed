@@ -1,0 +1,15 @@
+En el día de ayer se afectó el servicio por déficit de capacidad desde las 16:27 horas de la tarde de ayer, hasta las 02:03 horas de la madrugada de hoy.
+La máxima afectación en el día fue de 587 MW a las 20:40 horas, coincidente con la hora pico.
+
+La disponibilidad del SEN a las 07:00 horas es de 2080 MW y la demanda 2050 MW. Se estima una afectación en el horario de la media de 250 MW.
+Se encuentran fuera de servicio por avería la unidad 5 de la CTE Mariel, la unidad 1 de la CTE Santa Cruz, la unidad 2 de la CTE Felton y la unidad 6 de la CTE Rente.
+
+Se encuentra en mantenimiento la unidad 8 de la CTE Mariel y la unidad 6 de la CTE Nuevitas. Las limitaciones en la generación térmica, 341 MW.
+Se encuentran fuera de servicio por combustible 58 centrales de generación distribuida, las patanas de Mariel, la central fuel de Mariel, la central fuel de Moa y la patana de Santiago de Cuba para un total de 776 MW.
+Para el pico se estima la entrada de la unidad 5 de la CTE Mariel con 60 MW.
+Con este pronóstico, se estima para la hora pico una disponibilidad de 2140 MW y una demanda máxima de 2700 MW, para un déficit de 560 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 630 MW en este horario.
+
+(Con información de la UNE)
+
+
+url:http://www.cubadebate.cu/noticias/2024/03/28/union-electrica-pronostica-afectacion-de-630-mw-durante-pico-nocturno/

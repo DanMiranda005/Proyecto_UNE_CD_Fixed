@@ -1,0 +1,56 @@
+{
+    "zones_with_problems": ["west" , "middle", "east"], 
+    "date": "20240405",
+    "url": "http://www.cubadebate.cu/noticias/2024/04/05/union-electrica-no-se-pronostican-afectaciones-al-servicio-este-viernes/", 
+    "prediction": {
+        "availability": "2655",  
+        "demand_max": "2600",
+        "impact": null,
+        "deficit": null,
+        "backup": "55"
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": "2250", 
+        "demand": "1980", 
+        "deficit": null 
+    }, 
+    "plants": [
+        {
+            "ID":"MG",
+            "broken": [],
+            "maintenance": [8],
+            "limitation": null
+    },
+    {
+        "ID":"DO",
+            "broken": [],
+            "maintenance": [6],
+            "limitation": null
+    },
+    {
+        "ID":"EG",
+            "broken": [2],
+            "maintenance": [],
+            "limitation": null
+    },
+    {
+        "ID":"LR",
+            "broken": [2],
+            "maintenance": [],
+            "limitation": null
+    }
+],
+    "distributed": {
+        "motors_with_problems": "",
+        "total_impact": "564",
+        "combustible_problem": "61",
+        "snips_with_problems": "la patana de Regla y la patana de Santiago de Cuba",
+        "motors_impact": ""
+    },
+    "impact": {
+        "total_hours": null,
+        "max": null,
+        "max_hour": null
+    }
+}

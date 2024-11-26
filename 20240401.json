@@ -1,0 +1,50 @@
+{
+    "zones_with_problems": ["west" , "middle", "east"], 
+    "date": "20240401",
+    "url": "http://www.cubadebate.cu/noticias/2024/04/01/une-preve-jornada-diurna-sin-afectaciones-por-deficit-de-generacion-y-afectacion-de-135-mw-en-pico-nocturno/", 
+    "prediction": {
+        "availability": "2535",  
+        "demand_max": "2600",
+        "impact": "135",
+        "deficit": "65",
+        "backup": null
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": "2349", 
+        "demand": "1880", 
+        "deficit": null
+    }, 
+    "plants": [
+        {
+            "ID":"LR",
+            "broken": [2],
+            "maintenance": [],
+            "limitation": null
+    },
+    {
+        "ID":"MG",
+            "broken": [],
+            "maintenance": [8],
+            "limitation": null
+    },
+    {
+        "ID":"DO",
+            "broken": [],
+            "maintenance": [6],
+            "limitation": null
+    } 
+],
+    "distributed": {
+        "motors_with_problems": "",
+        "total_impact": "517",
+        "combustible_problem": "62",
+        "snips_with_problems": "patana de Santiago de Cuba",
+        "motors_impact": ""
+    },
+    "impact": {
+        "total_hours": null,
+        "max": null,
+        "max_hour": null
+    }
+}
